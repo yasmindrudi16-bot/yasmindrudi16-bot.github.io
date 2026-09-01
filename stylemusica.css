@@ -1,0 +1,6 @@
+chorao{
+    margin-left: 60px;
+    display:flex;
+    flex-direction: wrap;
+    gap: 12px;
+}
